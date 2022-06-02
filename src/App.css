@@ -1,1 +1,12 @@
-
+.App
+{
+  width: 400px ;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 150px;
+  background-color: white;
+}
+.body
+{
+  color: gray;
+}
